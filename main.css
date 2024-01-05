@@ -87,6 +87,7 @@
     animation-name:animka;
     animation-delay: 0s;
     animation-duration: 2.4s;
+    animation-timing-function: ease-in;
     animation-iteration-count: infinite;
     margin-top: 236px;
     font-size: 100px;
