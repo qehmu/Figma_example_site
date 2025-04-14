@@ -1,7 +1,1 @@
-# Figma_example_site
-# Figma_example_site
-# Figma_example_site
-# Figma_example_site
-# Figma_example_site
-# Figma_example_site
-# Figma_example_site
+Just my two years old site, created by myself
